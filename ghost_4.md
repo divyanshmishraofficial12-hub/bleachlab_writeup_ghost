@@ -13,7 +13,8 @@ Before jumping into the terminal, we review the platform dashboard to understand
 ### 1. Dashboard Reconnaissance
 The dashboard for "Level 4 → Level 5 (Signal in the Noise)" highlights `grep` and `find` as the primary commands needed. It contextualizes the challenge in the real world: *"Threat hunting. This is the core loop of every SOC analyst on the planet - find the needle in the log haystack."*
 *(Screenshot showing the BreachLab web interface and Level 4 → 5 briefing)*
-![Level 4 to 5 Dashboard Briefing](IMG-20260708-WA0014.jpg)
+ <img width="1920" height="922" alt="VirtualBox_kali linux_08_07_2026_13_40_33" src="https://github.com/user-attachments/assets/62c0124a-fa3c-47d7-b3cb-b66293a0eb62" />
+
 
 ---
 
