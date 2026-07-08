@@ -2,6 +2,7 @@
 
 ## 📖 Overview
 This document outlines the solution for the "First Contact" level of the GHOST wargame series on BreachLab. The objective of this level is to utilize basic Secure Shell (SSH) connectivity and fundamental Linux command-line navigation to locate the hidden password required to progress to the next user (`ghost1`).
+<img width="1920" height="922" alt="VirtualBox_kali linux_08_07_2026_15_22_11" src="https://github.com/user-attachments/assets/c1aab92c-f589-4480-a3e1-cec166e979e9" />
 
 ---
 
