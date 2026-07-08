@@ -24,5 +24,10 @@ We establish our SSH connection using the password recovered from the restricted
 
 ### 1. SSH Connection & MOTD
 We log in as `ghost4` on port 2222. The Message of the Day (MOTD) sets our objective: *"KAEL dumped everything into the vault. Hundreds of log entries. One of them isn't like the others. The real signal has a different format. Find it."*
-```bash
+bash
 ssh ghost4@204.168.229.209 -p 2222
+<img width="1920" height="922" alt="VirtualBox_kali linux_08_07_2026_13_41_57" src="https://github.com/user-attachments/assets/ea8773f1-37a4-4937-bd18-6c8b4cff2d04" />
+<img width="1920" height="922" alt="VirtualBox_kali linux_08_07_2026_13_44_07" src="https://github.com/user-attachments/assets/445d3513-5fb3-4dbb-8448-dbd52e3712b9" />
+<img width="1920" height="922" alt="VirtualBox_kali linux_08_07_2026_13_44_23" src="https://github.com/user-attachments/assets/a951b555-1f6f-4457-9684-a310c41e97a0" />
+🎯 Conclusion
+By understanding how to parse large datasets using standard Linux text manipulation tools (grep), we efficiently bypassed hundreds of decoy log entries. Identifying the baseline format allowed us to quickly extract the single anomalous record, simulating a fundamental threat hunting workflow and securing access to ghost5.
