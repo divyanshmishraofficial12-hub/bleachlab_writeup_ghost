@@ -24,7 +24,8 @@ We establish our connection to the server using the password recovered from the 
 ### 1. SSH Connection & Briefing
 We log in as `ghost3` on port 2222. The Message of the Day (MOTD) introduces the new obstacle: *"KAEL structured his storage by access level. Not everything is readable by everyone. Know who you are. Know what you can reach."* The recommended topics to study are `id`, `find`, and `chmod`.
 *(Screenshot showing the SSH login, MOTD, and Level 3 briefing)*
-![Level 3 Login and Access Denied Briefing](IMG-20260708-WA0007.jpg)
+ <img width="1920" height="922" alt="VirtualBox_kali linux_08_07_2026_13_34_59" src="https://github.com/user-attachments/assets/eb0f3049-c8e8-4212-9f6a-cc927e46d22e" />
+
 
 ---
 
