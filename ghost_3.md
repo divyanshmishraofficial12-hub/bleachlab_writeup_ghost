@@ -59,5 +59,6 @@ Next, we attempt to enter the `ops` directory (`cd ops/`). This succeeds, indica
 
 ### 3. Retrieving the Target Password
 Inside the `ops` directory, we run `ls` and find two files: `access_codes.dat` and `operative_list.txt`. We use `cat` to read the access codes.
-```bash
+bash
 cat access_codes.dat
+<img width="1920" height="922" alt="VirtualBox_kali linux_08_07_2026_13_39_26" src="https://github.com/user-attachments/assets/5e2ed294-8aa1-4a38-8aca-06fc0ca520e9" />
