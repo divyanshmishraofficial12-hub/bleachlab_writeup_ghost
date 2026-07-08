@@ -12,7 +12,8 @@ Before diving into the next terminal session, we review the dashboard for the tr
 ### 1. Dashboard Reconnaissance
 The platform dashboard for "Level 2 → Level 3 (In the Shadows)" highlights commands like `ls`, `cat`, and `find`. It notes the real-world application of hunting for hidden tools—a concept we utilized in the previous stage to retrieve the `ghost3` password.
 *(Screenshot showing the BreachLab web interface and Level 2 → 3 briefing)*
-![Level 2 to 3 Dashboard Briefing](IMG-20260708-WA0010.jpg)
+ <img width="1920" height="922" alt="VirtualBox_kali linux_08_07_2026_15_23_14" src="https://github.com/user-attachments/assets/52b5c613-e7c4-4e62-862a-20162dc9a2da" />
+
 
 ---
 
