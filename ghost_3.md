@@ -42,7 +42,7 @@ Listing the home directory reveals a `map.txt` file. Reading it outputs "KAEL'S 
 ### 2. Investigating the Public Directory
 We navigate to `/var/intel/public/` and read `report_q1.txt`. The file states: *"This document contains no operational credentials. For restricted files, consult your access group."* This confirms the flag is not in the world-readable area.
 *(Screenshot showing the map reading, navigation to the public directory, and the dummy report)*
-![Storage Layout and Public Enumeration](IMG-20260708-WA0009.jpg)
+ <img width="1920" height="922" alt="VirtualBox_kali linux_08_07_2026_13_39_03" src="https://github.com/user-attachments/assets/850b658b-129f-48ce-a674-9a9c5b9562a2" />
 
 ---
 
