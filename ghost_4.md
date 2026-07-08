@@ -2,6 +2,7 @@
 
 ## 📖 Overview
 This document outlines the solution for Level 4 → 5 (Signal in the Noise) of the BreachLab GHOST wargame. The core focus of this challenge is log analysis and threat hunting. It requires using command-line text processing utilities, specifically `grep`, to filter through hundreds of decoy files and locate a single anomaly containing the next credential.
+<img width="1920" height="922" alt="VirtualBox_kali linux_08_07_2026_15_23_36" src="https://github.com/user-attachments/assets/cc4ac7c6-b239-4fa5-9598-c39c60dcc992" />
 
 ---
 
