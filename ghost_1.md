@@ -29,3 +29,5 @@ ssh ghost1@204.168.229.209 -p 2222
 <img width="1920" height="922" alt="VirtualBox_kali linux_08_07_2026_13_22_19" src="https://github.com/user-attachments/assets/58ebb9d4-bd3b-4afe-ad4d-9f8e89cd3379" />
 <img width="1920" height="922" alt="VirtualBox_kali linux_08_07_2026_13_33_36" src="https://github.com/user-attachments/assets/d8b6a9e1-0a74-46e7-a2e4-16cc5ccf14b9" />
 
+🎯 Conclusion
+By understanding how the Linux shell parses special characters, we successfully bypassed KAEL's obfuscation techniques using character escaping (\ ). Furthermore, by recognizing UNIX conventions for hidden files and directories (dot-files),
