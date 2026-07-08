@@ -13,7 +13,8 @@ Before accessing the terminal for the next level, we review the challenge parame
 ### 1. Dashboard Reconnaissance
 The platform dashboard for "Level 1 → Level 2 (Name Game)" highlights the core concepts: `cat`, `ls`, and `man`. The briefing explicitly states the real-world significance: *"Shell quoting is the foundation for shell injection, path traversal, and every real attack that abuses how operators pass arguments to other programs."*
 *(Screenshot showing the BreachLab web interface and Level 1 briefing)*
-![Level 1 Dashboard Briefing](IMG-20260708-WA0005.jpg)
+ <img width="1920" height="922" alt="VirtualBox_kali linux_08_07_2026_13_19_39" src="https://github.com/user-attachments/assets/08f01cec-2cbe-4806-8d0e-8412f95e00a2" />
+
 
 ---
 
