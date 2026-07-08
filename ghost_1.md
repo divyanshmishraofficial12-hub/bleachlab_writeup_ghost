@@ -24,5 +24,8 @@ We establish our connection to the server using the password recovered from Leve
 
 ### 1. SSH Connection & Briefing
 We log in as `ghost1` on port 2222. The Message of the Day (MOTD) sets the stage: *"KAEL was paranoid. He named his files in ways that make the shell fight you. Read the MANIFEST. Then figure out how."*
-```bash
+bash
 ssh ghost1@204.168.229.209 -p 2222
+<img width="1920" height="922" alt="VirtualBox_kali linux_08_07_2026_13_22_19" src="https://github.com/user-attachments/assets/58ebb9d4-bd3b-4afe-ad4d-9f8e89cd3379" />
+<img width="1920" height="922" alt="VirtualBox_kali linux_08_07_2026_13_33_36" src="https://github.com/user-attachments/assets/d8b6a9e1-0a74-46e7-a2e4-16cc5ccf14b9" />
+
